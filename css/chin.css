@@ -1,0 +1,52 @@
+body {
+    background-image: url('/img/chintz.jpg');
+    background-repeat: repeat-x repeat-y;
+}
+
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    letter-spacing: -0.5px;
+}
+
+.chinTainer {
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+}
+
+.chins img {
+    width: 500px;
+}
+
+.chinTainer button {
+    padding: 10px;
+    font-size: 120%;
+    margin-top: 20px;
+}
+
+.chinnn {
+    background-image: url(/img/chinnn.gif);
+    background-repeat: repeat-x repeat-y;
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.ramsay {
+    background: white;
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.ramsay img {
+    width: 300px;
+    margin: 0 auto;
+    display: block;
+}
