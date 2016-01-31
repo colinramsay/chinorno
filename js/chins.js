@@ -1,4 +1,4 @@
-document.body.innerHTML += '<audio autoplay loop><source src="./chimtrim.mp3"></audio>';
+document.body.innerHTML += '<audio autoplay loop><source src="chimtrim.mp3"></audio>';
 
 var chins = [
     {
@@ -20,6 +20,10 @@ var chins = [
     },
     {
         img: 'chinp1.jpg',
+        shouldChinp: true
+    },
+    {
+        img: 'chimp2.jpg',
         shouldChinp: true
     },
     {
