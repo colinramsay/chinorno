@@ -108,7 +108,7 @@ function ramsay() {
     ramsay.className = 'ramsay';
 
     var img = document.createElement('img');
-    img.src = './img/ramsay.gif';
+    img.src = 'img/ramsay.gif';
     ramsay.appendChild(img);
 
     document.body.appendChild(ramsay);
