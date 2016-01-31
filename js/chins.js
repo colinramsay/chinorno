@@ -1,4 +1,4 @@
-document.body.innerHTML += '<audio autoplay loop><source src="/chimtrim.mp3"></audio>';
+document.body.innerHTML += '<audio autoplay loop><source src="./chimtrim.mp3"></audio>';
 
 var chins = [
     {
@@ -104,7 +104,7 @@ function ramsay() {
     ramsay.className = 'ramsay';
 
     var img = document.createElement('img');
-    img.src = '/img/ramsay.gif';
+    img.src = './img/ramsay.gif';
     ramsay.appendChild(img);
 
     document.body.appendChild(ramsay);

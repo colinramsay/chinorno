@@ -1,11 +1,12 @@
 body {
-    background-image: url('/img/chintz.jpg');
+    background-image: url('../img/chintz.jpg');
     background-repeat: repeat-x repeat-y;
 }
 
 h1 {
     font-family: Helvetica, Arial, sans-serif;
     letter-spacing: -0.5px;
+    text-shadow: #FFF 0px 0px 5px;
 }
 
 .chinTainer {
@@ -25,7 +26,7 @@ h1 {
 }
 
 .chinnn {
-    background-image: url(/img/chinnn.gif);
+    background-image: url('../img/chinnn.gif');
     background-repeat: repeat-x repeat-y;
     position: absolute;
     z-index: 10;
