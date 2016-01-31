@@ -11,12 +11,12 @@ h1 {
 
 .chinTainer {
     margin: 0 auto;
-    width: 500px;
+    max-width: 500px;
     text-align: center;
 }
 
 .chins img {
-    width: 500px;
+    width: 100%;
 }
 
 .chinTainer button {
@@ -47,7 +47,7 @@ h1 {
 }
 
 .ramsay img {
-    width: 300px;
+    max-width: 300px;
     margin: 0 auto;
     display: block;
 }

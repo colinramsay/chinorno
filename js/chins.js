@@ -27,9 +27,6 @@ var chins = [
         shouldChinp: true
     },
     {
-        img: 'arma.jpg'
-    },
-    {
         img: 'bear.jpg'
     },
     {
