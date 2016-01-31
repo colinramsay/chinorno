@@ -1,6 +1,6 @@
 body {
     background-image: url('../img/chintz.jpg');
-    background-repeat: repeat-x repeat-y;
+    background-repeat: repeat;
 }
 
 h1 {
@@ -27,7 +27,7 @@ h1 {
 
 .chinnn {
     background-image: url('../img/chinnn.gif');
-    background-repeat: repeat-x repeat-y;
+    background-repeat: repeat;
     position: absolute;
     z-index: 10;
     top: 0;
